@@ -1,0 +1,13 @@
+Version Java : 16.0.2
+
+Controles : (Windows)
+  -Flèche gauche : réduit le nombre de jours par seconde (Minimum : 1 jour/seconde)
+  -Flèche droite : augmente le nombre de jours par seconde (Maximum : 500 jours/seconde)
+  -Controle : Met le nombre de jour par seconde a 15 (Valeur par default)
+
+Membres du groupe :
+  -David Caback
+  -Tom Lefevre
+  -Benjamin Sara
+  
+DUT INFO 2 Groupe 3
